@@ -1,0 +1,7 @@
+15:12:49.324 [main] INFO  resources.base - Non Restricted User
+15:12:53.289 [main] INFO  resources.base - Navigation Bar is displayed
+15:19:12.502 [main] INFO  resources.base - Driver is initialised
+15:19:17.125 [main] INFO  resources.base - Url got hitted and navigated to Home Page
+15:19:17.255 [main] INFO  resources.base - Browser window got Maximized
+15:19:27.390 [main] INFO  resources.base - Username entered successfully
+15:19:27.506 [main] INFO  resources.base - Password entered successfully

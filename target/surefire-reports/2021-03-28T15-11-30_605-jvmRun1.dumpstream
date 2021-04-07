@@ -1,0 +1,290 @@
+# Created at 2021-03-28T15:11:46.566
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-03-28T15:11:53.138
+Unexpected IOException with stream: [
+
+# Created at 2021-03-28T15:11:53.140
+Unexpected IOException with stream: 1
+
+# Created at 2021-03-28T15:11:53.141
+Unexpected IOException with stream: 6
+
+# Created at 2021-03-28T15:11:53.143
+Unexpected IOException with stream: 1
+
+# Created at 2021-03-28T15:11:53.144
+Unexpected IOException with stream: 6
+
+# Created at 2021-03-28T15:11:53.145
+Unexpected IOException with stream: 9
+
+# Created at 2021-03-28T15:11:53.147
+Unexpected IOException with stream: 2
+
+# Created at 2021-03-28T15:11:53.148
+Unexpected IOException with stream: 4
+
+# Created at 2021-03-28T15:11:53.149
+Unexpected IOException with stream: 5
+
+# Created at 2021-03-28T15:11:53.150
+Unexpected IOException with stream: 1
+
+# Created at 2021-03-28T15:11:53.151
+Unexpected IOException with stream: 3
+
+# Created at 2021-03-28T15:11:53.153
+Unexpected IOException with stream: .
+
+# Created at 2021-03-28T15:11:53.154
+Unexpected IOException with stream: 1
+
+# Created at 2021-03-28T15:11:53.155
+Unexpected IOException with stream: 3
+
+# Created at 2021-03-28T15:11:53.156
+Unexpected IOException with stream: 6
+
+# Created at 2021-03-28T15:11:53.157
+Unexpected IOException with stream: ]
+
+# Created at 2021-03-28T15:11:53.158
+Unexpected IOException with stream: [
+
+# Created at 2021-03-28T15:11:53.160
+Unexpected IOException with stream: W
+
+# Created at 2021-03-28T15:11:53.161
+Unexpected IOException with stream: A
+
+# Created at 2021-03-28T15:11:53.162
+Unexpected IOException with stream: R
+
+# Created at 2021-03-28T15:11:53.163
+Unexpected IOException with stream: N
+
+# Created at 2021-03-28T15:11:53.164
+Unexpected IOException with stream: I
+
+# Created at 2021-03-28T15:11:53.165
+Unexpected IOException with stream: N
+
+# Created at 2021-03-28T15:11:53.167
+Unexpected IOException with stream: G
+
+# Created at 2021-03-28T15:11:53.168
+Unexpected IOException with stream: ]
+
+# Created at 2021-03-28T15:11:53.169
+Unexpected IOException with stream: :
+
+# Created at 2021-03-28T15:11:53.170
+Unexpected IOException with stream:  
+
+# Created at 2021-03-28T15:11:53.172
+Unexpected IOException with stream: T
+
+# Created at 2021-03-28T15:11:53.173
+Unexpected IOException with stream: i
+
+# Created at 2021-03-28T15:11:53.174
+Unexpected IOException with stream: m
+
+# Created at 2021-03-28T15:11:53.175
+Unexpected IOException with stream: e
+
+# Created at 2021-03-28T15:11:53.176
+Unexpected IOException with stream: d
+
+# Created at 2021-03-28T15:11:53.177
+Unexpected IOException with stream:  
+
+# Created at 2021-03-28T15:11:53.178
+Unexpected IOException with stream: o
+
+# Created at 2021-03-28T15:11:53.179
+Unexpected IOException with stream: u
+
+# Created at 2021-03-28T15:11:53.180
+Unexpected IOException with stream: t
+
+# Created at 2021-03-28T15:11:53.181
+Unexpected IOException with stream:  
+
+# Created at 2021-03-28T15:11:53.182
+Unexpected IOException with stream: c
+
+# Created at 2021-03-28T15:11:53.183
+Unexpected IOException with stream: o
+
+# Created at 2021-03-28T15:11:53.184
+Unexpected IOException with stream: n
+
+# Created at 2021-03-28T15:11:53.185
+Unexpected IOException with stream: n
+
+# Created at 2021-03-28T15:11:53.186
+Unexpected IOException with stream: e
+
+# Created at 2021-03-28T15:11:53.187
+Unexpected IOException with stream: c
+
+# Created at 2021-03-28T15:11:53.188
+Unexpected IOException with stream: t
+
+# Created at 2021-03-28T15:11:53.188
+Unexpected IOException with stream: i
+
+# Created at 2021-03-28T15:11:53.189
+Unexpected IOException with stream: n
+
+# Created at 2021-03-28T15:11:53.190
+Unexpected IOException with stream: g
+
+# Created at 2021-03-28T15:11:53.191
+Unexpected IOException with stream:  
+
+# Created at 2021-03-28T15:11:53.192
+Unexpected IOException with stream: t
+
+# Created at 2021-03-28T15:11:53.193
+Unexpected IOException with stream: o
+
+# Created at 2021-03-28T15:11:53.194
+Unexpected IOException with stream:  
+
+# Created at 2021-03-28T15:11:53.195
+Unexpected IOException with stream: C
+
+# Created at 2021-03-28T15:11:53.196
+Unexpected IOException with stream: h
+
+# Created at 2021-03-28T15:11:53.197
+Unexpected IOException with stream: r
+
+# Created at 2021-03-28T15:11:53.198
+Unexpected IOException with stream: o
+
+# Created at 2021-03-28T15:11:53.199
+Unexpected IOException with stream: m
+
+# Created at 2021-03-28T15:11:53.200
+Unexpected IOException with stream: e
+
+# Created at 2021-03-28T15:11:53.201
+Unexpected IOException with stream: ,
+
+# Created at 2021-03-28T15:11:53.204
+Unexpected IOException with stream:  
+
+# Created at 2021-03-28T15:11:53.206
+Unexpected IOException with stream: r
+
+# Created at 2021-03-28T15:11:53.207
+Unexpected IOException with stream: e
+
+# Created at 2021-03-28T15:11:53.208
+Unexpected IOException with stream: t
+
+# Created at 2021-03-28T15:11:53.208
+Unexpected IOException with stream: r
+
+# Created at 2021-03-28T15:11:53.209
+Unexpected IOException with stream: y
+
+# Created at 2021-03-28T15:11:53.210
+Unexpected IOException with stream: i
+
+# Created at 2021-03-28T15:11:53.211
+Unexpected IOException with stream: n
+
+# Created at 2021-03-28T15:11:53.212
+Unexpected IOException with stream: g
+
+# Created at 2021-03-28T15:11:53.213
+Unexpected IOException with stream: .
+
+# Created at 2021-03-28T15:11:53.214
+Unexpected IOException with stream: .
+
+# Created at 2021-03-28T15:11:53.215
+Unexpected IOException with stream: .
+
+# Created at 2021-03-28T15:11:53.216
+Unexpected IOException with stream: 
+
+# Created at 2021-03-28T15:11:53.216
+Unexpected IOException with stream: 
+
+
+# Created at 2021-03-28T15:12:01.472
+Unexpected IOException: 8,1,Academy.ValidateNavigationBarTest,initialise(Academy.ValidateNavigationBarTest),null,chrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482,null,chrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482,ValidateNavigationBarTest.initialise:30 \00BB WebDriver chrome not reachable\000A  (Se...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482\000A\0009at Academy.ValidateNavigationBarTest.initialise(ValidateNavigationBarTest.java:30)\000A
+
+
+# Created at 2021-03-28T15:12:01.474
+Unexpected IOException: 9,1,Academy.ValidateTitleTest,initialise(Academy.ValidateTitleTest),null,null,null
+
+
+# Created at 2021-03-28T15:12:01.537
+Unexpected IOException: 5,1,Academy.HomePageTest,basePageNavigation(Academy.HomePageTest),Academy.HomePageTest,null,null
+
+
+# Created at 2021-03-28T15:12:01.539
+Unexpected IOException: 9,1,Academy.HomePageTest,basePageNavigation(Academy.HomePageTest),null,chrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482,null
+
+
+# Created at 2021-03-28T15:12:01.541
+Unexpected IOException: 5,1,Academy.HomePageTest,basePageNavigation(Academy.HomePageTest),Academy.HomePageTest,null,null
+
+
+# Created at 2021-03-28T15:12:01.544
+Unexpected IOException: 9,1,Academy.HomePageTest,basePageNavigation(Academy.HomePageTest),null,chrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482,null
+
+
+# Created at 2021-03-28T15:12:01.552
+Unexpected IOException: 5,1,Academy.ValidateNavigationBarTest,validateNavigationBar(Academy.ValidateNavigationBarTest),Academy.ValidateNavigationBarTest,null,null
+
+
+# Created at 2021-03-28T15:12:01.556
+Unexpected IOException: 9,1,Academy.ValidateNavigationBarTest,validateNavigationBar(Academy.ValidateNavigationBarTest),null,chrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482,null
+
+
+# Created at 2021-03-28T15:12:01.558
+Unexpected IOException: 5,1,Academy.ValidateTitleTest,validateTitleText(Academy.ValidateTitleTest),Academy.ValidateTitleTest,null,null
+
+
+# Created at 2021-03-28T15:12:01.559
+Unexpected IOException: 9,1,Academy.ValidateTitleTest,validateTitleText(Academy.ValidateTitleTest),null,chrome not reachable\000A  (Session info: chrome=89.0.4389.90)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-FJF7J42'\002C ip: '192.168.1.23'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 89.0.4389.90\002C chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002...\002C userDataDir: C:\005CUsers\005CPankaj\005CAppData\005CLoc...}\002C goog:chromeOptions: {debuggerAddress: localhost:55352}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 08c66659103c188dbe6290d00becc482,null
+
+
+# Created at 2021-03-28T15:12:01.561
+Unexpected IOException: 9,1,Academy.HomePageTest,tearDown(Academy.HomePageTest),null,null,null
+
+
+# Created at 2021-03-28T15:12:01.563
+Unexpected IOException: 9,1,Academy.ValidateNavigationBarTest,tearDown(Academy.ValidateNavigationBarTest),null,null,null
+
+
+# Created at 2021-03-28T15:12:01.565
+Unexpected IOException: 9,1,Academy.ValidateTitleTest,tearDown(Academy.ValidateTitleTest),null,null,null
+
+
+# Created at 2021-03-28T15:12:02.105
+Unexpected IOException: 5,1,Academy.AppTest,shouldAnswerWithTrue on shouldAnswerWithTrue(Academy.AppTest)(Academy.AppTest),Academy.AppTest,null,null
+
+
+# Created at 2021-03-28T15:12:02.110
+Unexpected IOException: 6,1,Academy.AppTest,shouldAnswerWithTrue on shouldAnswerWithTrue(Academy.AppTest)(Academy.AppTest),null,null,null
+
+
+# Created at 2021-03-28T15:12:02.262
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,TestSuite,null,null,null
+
+

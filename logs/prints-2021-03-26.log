@@ -1,0 +1,7 @@
+14:03:14.955 [main] INFO  resources.base - Driver is initialised
+14:03:28.573 [main] INFO  resources.base - Url got hitted and navigated to Home Page
+14:03:28.763 [main] INFO  resources.base - Browser window got Maximized
+15:16:10.212 [TestNG-tests-4] INFO  resources.base - Driver is initialised
+15:16:19.461 [TestNG-tests-3] INFO  resources.base - Navigation Bar is displayed
+15:16:19.482 [TestNG-tests-4] INFO  resources.base - Url got hitted and navigated to Home Page
+15:16:20.241 [TestNG-tests-4] INFO  resources.base - Browser window got Maximized

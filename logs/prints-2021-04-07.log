@@ -1,0 +1,6 @@
+10:41:15.308 [TestNG-tests-2] INFO  resources.base - Username entered successfully
+10:41:15.504 [TestNG-tests-2] INFO  resources.base - Password entered successfully
+10:41:15.505 [TestNG-tests-2] INFO  resources.base - Restricted User
+10:41:16.921 [TestNG-tests-4] INFO  resources.base - Url got hitted and navigated to Home Page
+10:41:17.086 [TestNG-tests-4] INFO  resources.base - Browser window got Maximized
+10:41:22.065 [TestNG-tests-2] INFO  resources.base - Username entered successfully
